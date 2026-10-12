@@ -1,0 +1,15 @@
+# IPUMS data: terms of use prohibit redistribution, and files are large
+*.csv
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Instructor's example code (not my work)
+lab1script.R
+LAB3_PREP.R
+LAB4_SCRIPT_1.R
+LAB4_SCRIPT_2.R
+LAB5_SCRIPT_1.R
+LAB6_SCRIPT_1.R
