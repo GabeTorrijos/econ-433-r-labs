@@ -19,6 +19,7 @@ Coursework from ECON 433 at California State University, Northridge. The labs us
 | 4 | `LAB4_ASSIGNMENT.R` | Repeats the county summaries for 2018 and 2023 and adds the share of adults 25+ with 4+ years of college. Merges population, employment rate, college share, and average income into one county-by-year table with `inner_join`. |
 | 5 | `LAB5_SCRIPT_ASSIGNMENT.R` | Compares 2018 to 2023 for employed people aged 25-65. Computes each county's change in average income and in college share, then plots one against the other in a scatter plot. |
 | 6 | `LAB6_SCRIPT_ASSIGNMENT.R` | Estimates five regressions of log wage income on a female indicator for employed 2018 workers, adding controls at each step (education, marital status, age, race and ethnicity, then occupation, industry, and county fixed effects, then hours worked). Results are shown side by side with `stargazer`. |
+| 7 | `LAB7_SCRIPT_ASSIGNMENT.R` | Displays home ownership rate by age of household head, then runs 3 regressions utilizing dummy variables. 
 
 ### What I found
 
