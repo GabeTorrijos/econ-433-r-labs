@@ -21,6 +21,7 @@ Coursework from ECON 433 at California State University, Northridge. The labs us
 | 6 | `LAB6_SCRIPT_ASSIGNMENT.R` | Estimates five regressions of log wage income on a female indicator for employed 2018 workers, adding controls at each step (education, marital status, age, race and ethnicity, then occupation, industry, and county fixed effects, then hours worked). Results are shown side by side with `stargazer`. |
 | 7 | `LAB7_SCRIPT_ASSIGNMENT.R` | Displays home ownership rate by age of household head, then runs 3 regressions utilizing dummy variables.
 | 8 | `LAB8_SCRIPT_ASSIGNMENT.R` | A regression analysis of how class size affects standardized test scores, built to show how endogeneity biases an observational estimate and how random assignment fixes it. 
+| 9 | `LAB9_SCRIPT_ASSIGNMENT.R` | DiD regression analysis of city-restricted airbnb outcome on building permits. 
 
 ### What I found
 
